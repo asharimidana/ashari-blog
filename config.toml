@@ -1,4 +1,4 @@
-theme = "boksfisika"
+theme = "asharimidana"
 summaryLength = 2 
 
 title = "307"
@@ -14,7 +14,7 @@ DisqusShortname = "Boks Fisika"
 googleAnalytics = "G-BM7MNLDFB6" 
 
 # Untuk deskripsi tag meta di homepage
-description = "Blog Seputar Fisika"
+description = "Catatan Ashari Midana"
 baseURL = "https://asharimidana.github.io/"
 
 paginate = 2

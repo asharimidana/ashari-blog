@@ -9,15 +9,20 @@ author: ari
 ---
 
 #### Who Am I? 
-<p class="text-left ">
-
-Assalamu'alaikum Warahmatullaahi wabarakaatuh.
-<p>
 
 Perkenalkan nama saya Ashari Midana, biasa disapa Ashari atau Ari. 
-Blog ini saya buat sebagai dokumentasi saat mempelajari Linux maupun Pemrograman.
+Blog ini saya buat sebagai dokumentasi belajar saya tentang linux dan pemrograman.
 
-Saat belajar Linux atau Programan saya sering membuang-buang waktu pada kesalahan atau error yang sama, dikarena kebiasaan tidak mencatat
-error atau kesalahan yang terjadi. Dengan adanya blog ini diharapkan dapat memberikan sedikit manfaat khususnya bagi saya pribadi 
-dan semua pembaca pada umumnya. 
-selamat membaca semoga bermanfaat...
+Proses belajar pemrograman memang gampang-gampang susah, permasalahkan yang tak bisa dihindari saat belajar adalah ERROR. 
+Untuk mengatasi error biasanya penulis googling ke sana kemari untuk mengatasi error tersebut..
+
+Kenapa penulis suka dengan pemrograman?
+karena salah satu yang menantang saat belajar pemrograman yakni dapat melatih pola pikir untuk memecahkan masalah saat menemukan error itu sendiri..
+Suatu kebahagiaan tersendiri bisa menyelesaikan permasalahan-permasalahan di dunia koding.
+
+Namun.. tak jarang penulis kesal jika dihadapkan permaslahan atau error yang sama di kemudian hari : ( hal ini karena kebiasaan
+penulis yang jarang mencatat solusi saat menyelesaikan error..
+
+Harapan kami dengan dokumentasi ini penulis dapat membuka kembali catatan-catatan yang sudah ada jika dihadapkan error yang sama..
+
+selamat membaca & semangat belajarnya ^_^
